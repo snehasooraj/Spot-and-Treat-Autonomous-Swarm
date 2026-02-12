@@ -1,0 +1,11 @@
+path: C:\Users\sreel\miniproj\datasets\crop_weed_data
+train: train/images
+val: val/images
+
+# Number of classes
+nc: 2
+
+# Class names
+names:
+  0: crop
+  1: weed
